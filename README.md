@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4RTqRXhpZgAASUkqAAgAAAAD... [PEGA AQUÍ EL RESTO DE TU CÓDIGO BASE64]" alt="Enterprise Data Architecture Advisor" width="800">
+  <img src="https://lens.usercontent.google.com/banana?agsi=CmdnbG9iYWw6OjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAwZWI6MTo4NjVhNjkwODgwYTk0MDJkOjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAzNjRiYzYwMzM2ODowMDA2NWU2NzYyYjhhZTdmEAIYASIKaW1hZ2UvanBlZw==" alt="Enterprise Data Architecture Advisor" width="800">
   <br>
   <sub><em>Imagen generada por Nanobanana. That's cool!</em> 🍌</sub>
 </div>
-
-# Enterprise Data Architecture Advisor
 
 # Enterprise Data Architecture Advisor
 
