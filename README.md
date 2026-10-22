@@ -57,7 +57,7 @@ Create a file with this structure so the skill understands your enterprise envir
 - Naming Conventions: [Naming standards for databases, pipelines, and resources]
 ```
 
-### 🤖 How to use this Skill (Gemini, Claude, ChatGPT)
+### How to use this Skill (Gemini, Claude, ChatGPT)
 
 #### For Google Gemini (Native Support)
 
@@ -81,19 +81,19 @@ Claude makes this process incredibly seamless:
 2. **Knowledge Base:** Download the markdown files inside the `/knowledge`, `/templates`, and `/examples` folders and upload them directly to the GPT's knowledge base.
 3. **Context:** Upload your adapted `business-context.md` file.
 
-### 📁 Repository Structure
+### Repository Structure
 
 - `SKILL.md`: Main instructions (system prompt) and AI behavior.
 - `/knowledge/`: Business rules, architecture principles, and frameworks (e.g., DAMA, modeling patterns).
 - `/templates/`: Markdown templates to ensure outputs (HLDs, ADRs) have a standardized format.
 - `/examples/`: Solved use cases to calibrate the AI's behavior.
 
-### ✒️ Credits and Attribution
+### Credits and Attribution
 
 This skill and its base architecture were created by **Santiago Moreno**.
 
 Feel free to use, fork, or adapt this project for your own developments. The only thing I ask is that you keep the original attribution by linking back to this repository and mentioning the authorship.
 
-### 📄 License
+### License
 
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
